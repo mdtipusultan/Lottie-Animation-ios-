@@ -5,7 +5,7 @@
 //  Created by Tipu on 8/9/24.
 //
 
-import Foundation
+//import Foundation
 import SwiftUI
 import Lottie
 

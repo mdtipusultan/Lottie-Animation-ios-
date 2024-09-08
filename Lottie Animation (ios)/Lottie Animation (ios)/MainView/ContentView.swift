@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  ContentViews.swift
 //  Lottie Animation (ios)
 //
 //  Created by Tipu on 8/9/24.
@@ -8,7 +8,7 @@
 import SwiftUI
 import Lottie
 
-struct ContentView: View {
+struct ContentViews: View {
     var body: some View {
         VStack {
             // Lottie animation view
@@ -27,6 +27,6 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    ContentViews()
 }
 
